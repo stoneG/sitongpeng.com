@@ -1,0 +1,182 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	background-color:#ececec;
+	max-width: 1920px;
+	max-height: 1080px;
+	height: 100%;
+}
+
+h1 {
+	font-size: 50px;
+	font-weight: 400;
+	font-family: "Cabin",sans-serif;
+	color: #808080;
+}
+
+.name-initial {
+	text-align: right;
+	margin:0 10px 0 0;
+	width: 300px;
+	float: left;
+}
+
+.action-initial {
+	text-align: left;
+	margin: 0 0 0 10px;
+	width: 300px;
+	float: left;
+}
+
+#title {
+	width: 620px;
+	height: 61px;
+	position: relative;
+	float: right;
+	top: 35%;
+}
+
+/*
+.background {
+	background-image:url(../images/Main.png);
+	background-repeat:no-repeat;
+	background-color:#333333;
+	height:649px;
+	width:1250px;
+	margin:auto;
+	text-align:center;
+	padding-bottom:40px;
+	positon:relative;
+}
+
+.maincircle {
+	height:50px;
+	width:auto;
+	padding-top:140px;
+}
+
+.background li {
+	list-style:none;
+	text-align:center;
+}
+
+.background li.one a {
+	display:block;
+	background:url(../images/photographysprite.png) no-repeat;
+	margin-left:520px;
+	margin-right:520px;
+	margin-top:90px;
+	height:25px;
+	line-height:25px;
+}
+
+.background li.one a:hover {
+	display:block;
+	background:url(../images/photographysprite.png) no-repeat;
+	background-position:0px -27px;
+	margin-left:520px;
+	margin-right:520px;
+	margin-top:90px;
+	height:25px;
+	line-height:25px;
+}
+
+.background li.two a {
+	display:block;
+	background:url(../images/aboutsprite.png) no-repeat;
+	margin-left:520px;
+	margin-right:520px;
+	margin-top:10px;
+	height:34px;
+	line-height:34px;
+}
+
+.background li.two a:hover {
+	display:block;
+	background:url(../images/aboutsprite.png) no-repeat;
+	background-position:0px -41px;
+	margin-left:520px;
+	margin-right:520px;
+	margin-top:10px;
+	height:34px;
+	line-height:34px;
+}
+
+.background li.three a {
+	display:block;
+	background:url(../images/photographysprite.png) no-repeat;
+	margin-left:520px;
+	margin-right:520px;
+	margin-top:10px;
+	height:25px;
+	line-height:25px;
+}
+
+.background li.three a:hover {
+	display:block;
+	background:url(../images/photographysprite.png) no-repeat;
+	background-position:0px -27px;
+	margin-left:520px;
+	margin-right:520px;
+	margin-top:10px;
+	height:25px;
+	line-height:25px;
+}
+
+.background li.four a {
+	display:block;
+	background:url(../images/photographysprite.png) no-repeat;
+	margin-left:520px;
+	margin-right:520px;
+	margin-top:10px;
+	height:25px;
+	line-height:25px;
+}
+
+.background li.four a:hover {
+	display:block;
+	background:url(../images/photographysprite.png) no-repeat;
+	background-position:0px -27px;
+	margin-left:520px;
+	margin-right:520px;
+	margin-top:10px;
+	height:25px;
+	line-height:25px;
+}
+
+.background li.five a {
+	display:block;
+	background:url(../images/photographysprite.png) no-repeat;
+	margin-left:520px;
+	margin-right:520px;
+	margin-top:10px;
+	height:25px;
+	line-height:25px;
+}
+
+.background li.five a:hover {
+	display:block;
+	background:url(../images/photographysprite.png) no-repeat;
+	background-position:0px -27px;
+	margin-left:520px;
+	margin-right:520px;
+	margin-top:10px;
+	height:25px;
+	line-height:25px;
+}
+
+.navbar {
+	font-family:Raleway;
+	border-bottom: 2px white solid;
+	padding: 0 0 2px 80px; 
+}
+
+.intro {
+	color: #6A94CC;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 1.2em;
+	margin-left: 0;
+	margin-bottom: 25px;
+}
+*/
